@@ -1,0 +1,49 @@
+2025-05-08 23:22:59.193507: Start ETL process
+2025-05-08 23:28:00.947688: Start ETL process
+2025-05-08 23:30:02.256883: Start ETL process
+2025-05-08 23:30:03.409914: Table extracted successfully
+2025-05-08 23:32:12.309083: Start ETL process
+2025-05-08 23:32:13.440048: Table extracted successfully
+2025-05-08 23:32:26.758640: Start ETL process
+2025-05-08 23:32:27.891193: Table extracted successfully
+2025-05-08 23:32:27.894399: Data transformation complete
+2025-05-08 23:34:53.099005: Start ETL process
+2025-05-08 23:34:55.143274: Table extracted successfully
+2025-05-08 23:34:55.143274: Data transformation complete
+2025-05-08 23:34:55.156073: Data saved to CSV file
+2025-05-08 23:38:04.202335: Start ETL process
+2025-05-08 23:38:05.336854: Table extracted successfully
+2025-05-08 23:38:05.342506: Data transformation complete
+2025-05-08 23:38:05.348588: Data saved to CSV file
+2025-05-08 23:38:05.357863: Data loaded to database
+2025-05-08 23:38:05.358868: Query SELECT * FROM Largest_banks executed successfully
+2025-05-08 23:38:05.359893: Query SELECT * FROM Largest_banks executed successfully
+2025-05-08 23:38:05.359893: Query SELECT AVG(MC_GBP_Billion) FROM Largest_banks executed successfully
+2025-05-08 23:38:05.361403: Query SELECT "Bank name" FROM Largest_banks LIMIT 5 executed successfully
+2025-05-08 23:39:49.201736: Start ETL process
+2025-05-08 23:39:50.342575: Table extracted successfully
+2025-05-08 23:39:50.342575: Data transformation complete
+2025-05-08 23:39:50.353320: Data saved to CSV file
+2025-05-08 23:39:50.361128: Data loaded to database
+2025-05-08 23:39:50.362143: Query SELECT * FROM Largest_banks executed successfully
+2025-05-08 23:40:27.250506: Start ETL process
+2025-05-08 23:40:28.917390: Table extracted successfully
+2025-05-08 23:40:28.920183: Data transformation complete
+2025-05-08 23:40:28.926072: Data saved to CSV file
+2025-05-08 23:40:28.940167: Data loaded to database
+2025-05-08 23:40:28.942182: Query SELECT * FROM Largest_banks executed successfully
+2025-05-08 23:40:46.711422: Start ETL process
+2025-05-08 23:40:47.833486: Table extracted successfully
+2025-05-08 23:40:47.843863: Data transformation complete
+2025-05-08 23:40:47.850062: Data saved to CSV file
+2025-05-08 23:40:47.857096: Data loaded to database
+2025-05-08 23:40:47.858533: Query SELECT * FROM Largest_banks executed successfully
+2025-05-08 23:41:46.598591: Start ETL process
+2025-05-08 23:41:47.726745: Table extracted successfully
+2025-05-08 23:41:47.729017: Data transformation complete
+2025-05-08 23:41:47.736633: Data saved to CSV file
+2025-05-08 23:41:47.745774: Data loaded to database
+2025-05-08 23:41:47.745774: Query SELECT * FROM Largest_banks executed successfully
+2025-05-08 23:41:47.823175: Query SELECT * FROM Largest_banks executed successfully
+2025-05-08 23:41:47.826225: Query SELECT AVG(MC_GBP_Billion) FROM Largest_banks executed successfully
+2025-05-08 23:41:47.827342: Query SELECT "Bank name" FROM Largest_banks LIMIT 5 executed successfully
